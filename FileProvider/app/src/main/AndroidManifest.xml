@@ -13,29 +13,15 @@
         android:theme="@style/AppTheme">
 
         <activity
-            android:name=".MainActivity"
-            android:screenOrientation="portrait">
-
+            android:name=".UIEvents01Activity"
+            android:screenOrientation="portrait" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-
-
         </activity>
-        <activity
-            android:name=".UIEvents01Activity"
-            android:screenOrientation="portrait" />
-        <activity
-            android:name=".UIEvents02Activity"
-            android:screenOrientation="portrait" />
-        <activity
-            android:name=".UIEvents03Activity"
-            android:screenOrientation="portrait" />
-        <activity
-            android:name=".UIEvents04Activity"
-            android:screenOrientation="portrait" />
+
 
         <provider
             android:name="android.support.v4.content.FileProvider"

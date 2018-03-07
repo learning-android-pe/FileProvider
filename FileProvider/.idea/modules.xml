@@ -3,9 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/FileProvideExercise.iml" filepath="$PROJECT_DIR$/FileProvideExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FileProvider.iml" filepath="$PROJECT_DIR$/FileProvider.iml" />
       <module fileurl="file://D:\ws_android_utec\lesson12\ab-android-fundamentals\UIExercises\KotlinTemplate.iml" filepath="D:\ws_android_utec\lesson12\ab-android-fundamentals\UIExercises\KotlinTemplate.iml" />
       <module fileurl="file://D:\ws_android_utec\lesson12\ab-android-fundamentals\UIExercises\UIEventsComplete.iml" filepath="D:\ws_android_utec\lesson12\ab-android-fundamentals\UIExercises\UIEventsComplete.iml" />
       <module fileurl="file://$PROJECT_DIR$/UIExercises.iml" filepath="$PROJECT_DIR$/UIExercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
